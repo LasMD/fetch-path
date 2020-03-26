@@ -1,0 +1,32 @@
+{
+  "name": "fetch-path",
+  "version": "1.0.0",
+  "description": "local path resolver for npm and bower modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LasMD/fetch-path.git"
+  },
+  "keywords": [
+    "path",
+    "fetch",
+    "npm",
+    "bower"
+  ],
+  "author": {
+    "name": "Lasitha Denipitiya",
+    "email": "lamdadv@gmail.com",
+    "url": "https://lasithaismy.name"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LasMD/fetch-path/issues"
+  },
+  "homepage": "https://github.com/LasMD/fetch-path#readme",
+  "devDependencies": {
+    "ava": "^3.5.1"
+  }
+}
